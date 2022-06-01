@@ -1,5 +1,5 @@
 # Numerical_Approximation
-C++ code that I (Luke) wrote in my second year of college. I wrote it to assist with my Calculus 2 class because numerical approximation by hand is incredibly tedious.
+C++ code that I (Luke) wrote. I wrote it to assist with my Calculus 2 class because numerical approximation by hand is incredibly tedious.
 I modified the original code to be more object-oriented so the numerical formulas are inside a class hierarchy.
 The different numerical approximation formulas that are coded are Riemann's sums formula (I believe Middle Riemann sums instead of left or right Riemann sums), Trapezoidal formula, Parabolic formula (aka Simpson's Rule).
 The user must input the 2 limits of integration since numerical approximation is a definite integration technique. 
